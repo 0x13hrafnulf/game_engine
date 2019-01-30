@@ -1,0 +1,27 @@
+﻿  main.cpp
+  main_game.cpp
+d:\project\game_engines\sdl2_template\zombiegame\main_game.cpp(33): warning C4018: '<': signed/unsigned mismatch
+d:\project\game_engines\sdl2_template\zombiegame\main_game.cpp(37): warning C4018: '<': signed/unsigned mismatch
+d:\project\game_engines\sdl2_template\zombiegame\main_game.cpp(108): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\project\game_engines\sdl2_template\zombiegame\main_game.cpp(124): warning C4018: '<': signed/unsigned mismatch
+d:\project\game_engines\sdl2_template\zombiegame\main_game.cpp(163): warning C4244: 'initializing': conversion from 'Uint32' to 'float', possible loss of data
+d:\project\game_engines\sdl2_template\zombiegame\main_game.cpp(167): warning C4244: 'initializing': conversion from 'Uint32' to 'float', possible loss of data
+d:\project\game_engines\sdl2_template\zombiegame\main_game.cpp(223): warning C4018: '<': signed/unsigned mismatch
+d:\project\game_engines\sdl2_template\zombiegame\main_game.cpp(231): warning C4018: '<': signed/unsigned mismatch
+d:\project\game_engines\sdl2_template\zombiegame\main_game.cpp(239): warning C4018: '<': signed/unsigned mismatch
+d:\project\game_engines\sdl2_template\zombiegame\main_game.cpp(241): warning C4018: '<': signed/unsigned mismatch
+d:\project\game_engines\sdl2_template\zombiegame\main_game.cpp(245): warning C4018: '<': signed/unsigned mismatch
+d:\project\game_engines\sdl2_template\zombiegame\main_game.cpp(270): warning C4018: '<': signed/unsigned mismatch
+d:\project\game_engines\sdl2_template\zombiegame\main_game.cpp(272): warning C4018: '<': signed/unsigned mismatch
+d:\project\game_engines\sdl2_template\zombiegame\main_game.cpp(284): warning C4018: '<': signed/unsigned mismatch
+d:\project\game_engines\sdl2_template\zombiegame\main_game.cpp(301): warning C4018: '<': signed/unsigned mismatch
+d:\project\game_engines\sdl2_template\zombiegame\main_game.cpp(303): warning C4018: '<': signed/unsigned mismatch
+d:\project\game_engines\sdl2_template\zombiegame\main_game.cpp(337): warning C4018: '<': signed/unsigned mismatch
+d:\project\game_engines\sdl2_template\zombiegame\main_game.cpp(380): warning C4244: 'argument': conversion from 'Sint32' to 'float', possible loss of data
+d:\project\game_engines\sdl2_template\zombiegame\main_game.cpp(426): warning C4018: '<': signed/unsigned mismatch
+d:\project\game_engines\sdl2_template\zombiegame\main_game.cpp(432): warning C4018: '<': signed/unsigned mismatch
+d:\project\game_engines\sdl2_template\zombiegame\main_game.cpp(437): warning C4018: '<': signed/unsigned mismatch
+d:\project\game_engines\sdl2_template\zombiegame\main_game.cpp(488): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  player.cpp
+  Generating Code...
+  ZombieGame.vcxproj -> D:\Project\Game_engines\SDL2_Template\Debug\ZombieGame.exe
